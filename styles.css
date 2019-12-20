@@ -5,7 +5,8 @@
 }
 
 .example1 h3 {
-  font-size: 3em;
+  font-size: 40px;
+  font-family:helvetica,sans-serif;
   color: blue;
   position: absolute;
   width: 100%;
